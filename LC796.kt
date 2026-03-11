@@ -1,6 +1,3 @@
-package kotlinDSA.accepted
-
-// Accepted
 class LC796 {
   class Solution {
     fun rotateString(s: String, goal: String): Boolean {

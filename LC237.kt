@@ -1,7 +1,3 @@
-package kotlinDSA
-
-// ACCEPTED
-
 class LC237 {
   class Solution {
     fun deleteNode(node: ListNode?) {

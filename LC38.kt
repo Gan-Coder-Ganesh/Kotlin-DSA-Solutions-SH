@@ -1,11 +1,3 @@
-@file:Suppress("SameParameterValue")
-
-package kotlinDSA.accepted
-
-// if (n == 4) then countAndSay(4 - 1) == countAndSay(3) = countAndSay(2)...
-// countAndSay(n) = countAndSay(n - 1) = countAndSay(n - 2)....
-// Accepted
-
 class LC38 {
   class Solution {
     fun countAndSay(n: Int): String {
@@ -52,3 +44,7 @@ class LC38 {
 fun main() {
   LC38.Solution().countAndSay(2)
 }
+
+// if (n == 4) then countAndSay(4 - 1) == countAndSay(3) = countAndSay(2)...
+// countAndSay(n) = countAndSay(n - 1) = countAndSay(n - 2)....
+// Accepted

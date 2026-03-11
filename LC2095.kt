@@ -1,7 +1,3 @@
-package kotlinDSA
-
-// ACCEPTED
-
 class LC2095 {
   class Solution {
     fun deleteMiddle(head: ListNode?): ListNode? {
