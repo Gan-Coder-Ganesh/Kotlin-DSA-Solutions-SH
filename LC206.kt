@@ -1,5 +1,3 @@
-package kotlinDSA
-
 // ACCEPTED
 
 class LC206 {
